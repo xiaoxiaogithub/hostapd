@@ -24,7 +24,7 @@ public class AddressQueryActivity extends Activity {
 	private Button btnStart;
 	private TextView tvResult;
 
-	//我的代码2
+	//我的资源文件怎么提交
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
