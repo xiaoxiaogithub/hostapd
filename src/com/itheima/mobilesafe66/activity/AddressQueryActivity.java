@@ -23,8 +23,8 @@ public class AddressQueryActivity extends Activity {
 	private EditText etNumber;
 	private Button btnStart;
 	private TextView tvResult;
-//	private LinearLayout ll;
-	//我的代码
+
+	//我的代码2
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
