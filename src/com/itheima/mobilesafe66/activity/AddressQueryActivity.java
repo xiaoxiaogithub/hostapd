@@ -24,6 +24,7 @@ public class AddressQueryActivity extends Activity {
 	private Button btnStart;
 	private TextView tvResult;
 //	private LinearLayout ll;
+	//我的代码
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
